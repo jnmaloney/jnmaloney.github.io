@@ -1,4 +1,4 @@
-# jnmaloney.github.io
+# [jnmaloney.github.io](https://jnmaloney.github.io)
 jnmaloney.github.io personal home page
 
 
@@ -9,9 +9,11 @@ Recent Projects
 
 (2019-2020) SolarSupplyAu: Visualising Daily Solar Supply
 
-The project was developed to visualise daily solar supply using continually updating data. The visualisation displays solar supply down to regions of postcode size.
+A project that was developed to visualise solar supply using current daily data. The visualisation displays solar supply down to regions of postcode size, the residential photovoltaic capacity, and the esimated daily supply of solar energy (with daily weather data).
 
-The SolarSupplyAu home page can be found at https://jnmaloney.github.io/SolarSupplyAu/home.html
+The SolarSupplyAu home page can be found at https://jnmaloney.github.io/SolarSupplyAu/home.html.
+
+The software is free and open source for non-commercial use. 
 
 (2018) WebGui
 
