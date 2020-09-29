@@ -5,47 +5,59 @@ jnmaloney.github.io personal home page
 
 Joshua Maloney
 
-Recent Projects
+## Recent Projects
 
-(2019-2020) SolarSupplyAu: Visualising Daily Solar Supply
+### (2019-2020) SolarSupplyAu: Visualising Daily Solar Supply
 
 A project that was developed to visualise solar supply using current daily data. The visualisation displays solar supply down to regions of postcode size, the residential photovoltaic capacity, and the esimated daily supply of solar energy (with daily weather data).
 
+Data is modelled based on real solar PV performance gathered from sites across Australia, and compared with daily weather grids for temperature and insolation (solar irradiance).
+
 The SolarSupplyAu home page can be found at [https://jnmaloney.github.io/SolarSupplyAu/home.html](https://jnmaloney.github.io/SolarSupplyAu/home.html).
 
-The software is free and open source for non-commercial use. 
+The software is open source and free for non-commercial use. 
 
-(2018) WebGui
+### (2018) WebGui
 
 WebGui is a port of Dear IMGUI to the html5 web canvas, with WebAssembly binaries. 
 
 The WebGui home page can be found at [https://jnmaloney.github.io/WebGui/imgui.html](https://jnmaloney.github.io/WebGui/imgui.html)
 
-(2018) Weather Data Processing and Visualisation
+### (2018) Weather Data Processing and Visualisation
 
 (project) [https://github.com/jnmaloney/aaisd](https://github.com/jnmaloney/aaisd)
 
-(2017) Discrete Number Theory and Topology: The Hodge Conjecture, Perfect Graph Embeddings and Youngs' Ladders.
+### (2017) Discrete Number Theory and Topology: The Hodge Conjecture, Perfect Graph Embeddings and Youngs' Ladders.
 
 (paper) ...
 
-(2017) Biology-Inspired Neural Networks
+### (2017) Biology-Inspired Neural Networks
 
 (matlab project) [https://github.com/jnmaloney/Neocortex-Model](https://github.com/jnmaloney/Neocortex-Model)
 
 
-Previous Projects
+## Previous Projects
 
 
-Euclideon Geoverse
+### Euclideon Geoverse
 
-Euclideon Turboverse
+Visualisation project for converting and displaying large (many GB) point clouds in real time. Using C++/C#/WPF
 
-Roam GoAnywhere
+### Euclideon Turboverse
 
-Roam StaticEngine / StaticEditor
+Visualisation project for converting and displaying large (many GB) point clouds in real time. Using C++/DirectX
 
-Urban Engine
+### Roam GoAnywhere
+
+Rendering engine for displaying architectural visualisation.
+
+### Roam StaticEngine / StaticEditor
+
+Arch-vis engine and editor, with integrated sales database.
+
+### Urban Engine
+
+Visualisation engine for displaying large urban environments and engineering options.
 
 Bowen Hills
 
