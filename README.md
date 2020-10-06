@@ -13,7 +13,7 @@ A project that was developed to visualise solar supply using current daily data.
 
 Data is modelled based on real solar PV performance gathered from sites across Australia, and compared with daily weather grids for temperature and insolation (solar irradiance).
 
-The SolarSupplyAu home page can be found at [https://jnmaloney.github.io/SolarSupplyAu/home.html](https://jnmaloney.github.io/SolarSupplyAu/home.html).
+The SolarSupplyAu home page can be found at [https://jnmaloney.github.io/SolarSupplyAu/home.html](https://jnmaloney.github.io/SolarSupplyAu/home.html) or here [https://jnmaloney.github.io/SolarSupplyAu/docs/index.html](https://jnmaloney.github.io/SolarSupplyAu/docs/index.html).
 
 The software is open source and free for non-commercial use. 
 
