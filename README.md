@@ -7,6 +7,10 @@ Joshua Maloney
 
 ## Recent Projects
 
+### (2021) Gold Arcade
+
+Visualisation software for interactive 3D virtual experiences. [goldarcade.github.io](https:\\goldarcade.github.io)
+
 ### (2019-2020) SolarSupplyAu: Visualising Daily Solar Supply
 
 A project that was developed to visualise solar supply using current daily data. The visualisation displays solar supply down to regions of postcode size, the residential photovoltaic capacity, and the esimated daily supply of solar energy (with daily weather data).
