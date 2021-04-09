@@ -13,13 +13,57 @@ Visualisation software for interactive 3D virtual experiences. [goldarcade.githu
 
 ### (2019-2020) SolarSupplyAu: Visualising Daily Solar Supply
 
+This project visualises solar supply using current data. The visualisation shows the solar supply to each postcode in every state and territory of Australia.
+
+The data is gathered from the Bureau of Meteorology. The data is gathered for each day of the year. This data is used to estimate the daily solar supply to each region.
+
+The visualisation shows the solar supply to each postcode. The solar supply is shown as a map and as a table. The solar supply is also shown as a bar chart.
+
+A separate table shows the top postcodes in terms of total solar capacity.
+
+The visualisation can be used to see how well solar energy is supplied at different times of the year.
+
+Abstract
+
+This project visualises solar supply using current data. Daily solar irradiance data is gathered from the Bureau of Meteorology. This data is then used to modelled the electricity generation of residential photovoltaic installations. Daily data is aggregated to postcode resolution to estimate the solar supply to each postcode. For each day, a detailed visualisation is presented including a map of the solar supply, a plot of the estimated residential solar capacity, and a plot of the supply by each postcode. The visualisation also includes a table that lists the top postcodes in terms of total solar capacity.
+
+
+
 A project that was developed to visualise solar supply using current daily data. The visualisation displays solar supply down to regions of postcode size, the residential photovoltaic capacity, and the esimated daily supply of solar energy (with daily weather data).
 
 Data is modelled based on real solar PV performance gathered from sites across Australia, and compared with daily weather grids for temperature and insolation (solar irradiance).
 
-The SolarSupplyAu home page can be found at [https://jnmaloney.github.io/SolarSupplyAu/home.html](https://jnmaloney.github.io/SolarSupplyAu/home.html) or here [https://jnmaloney.github.io/SolarSupplyAu/docs/index.html](https://jnmaloney.github.io/SolarSupplyAu/docs/index.html).
+The SolarSupplyAu home page can be found at https://jnmaloney.github.io/SolarSupplyAu/home.html or here https://jnmaloney.github.io/SolarSupplyAu/docs/index.html.
 
-The software is open source and free for non-commercial use. 
+The software is open source and free for non-commercial use. For information about using the software under a commercial licence please contact jnmaloney@gmail.com.
+
+The visualisation is built using OpenGL and you can find the code for this project on GitHub at https://github.com/jnmaloney/SolarSupplyAu.
+
+
+
+If you would like to share your feedback or feature requests, please contact jnmaloney@gmail.com.
+
+
+
+Credits
+
+This project would not have been possible without the hard work of the following people:
+
+This visualisation was developed by Joshua Maloney.
+
+Many thanks to the Australian Photovoltaics Institute (APVI), who have provided much of the data on residential installation capacity. More information about the APVI can be found at www.apvi.org.au.
+
+The climate data used in the visualisation is supplied by the Bureau of Meteorology.
+
+The postcode boundaries used in this visualisation are provided by the Australian Bureau of Statistics.
+
+Summary
+
+
+
+The visualisation displays solar supply down to regions of postcode size, the residential photovoltaic capacity, and the estimated daily supply of solar energy (with daily weather data).
+
+Data is modelled based on real solar PV performance gathered from sites across Australia, and compared with daily weather grids for temperature
 
 ### (2018) WebGui
 
