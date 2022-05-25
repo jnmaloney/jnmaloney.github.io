@@ -7,6 +7,12 @@ Joshua Maloney
 
 ## Recent Projects
 
+### (2022) Gold Arcade
+
+Continuation of Gold Arcade indie games development, [www.goldarcade.com.au](http://www.goldarcade.com.au)
+
+Created channel as a hub for content [here at YouTube](https://www.youtube.com/channel/UCLd6ctIxVhD_j2tHfKRsBIQ/about).
+
 ### (2021) Gold Arcade
 
 Visualisation software for interactive 3D virtual experiences. [goldarcade.github.io](https://goldarcade.github.io)
