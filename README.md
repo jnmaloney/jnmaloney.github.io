@@ -7,6 +7,14 @@ Joshua Maloney
 
 ## Recent Projects
 
+### (2024) Feature Projects
+
+Featured in the book `c++ Game Animation Programming`.
+
+### (2023) INDYCAR - Motorsport Games
+
+Unreal 5 game for PC and console.
+
 ### (2022) Gold Arcade
 
 Continuation of Gold Arcade indie games development, [www.goldarcade.com.au](http://www.goldarcade.com.au)
