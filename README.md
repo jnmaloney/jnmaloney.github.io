@@ -7,6 +7,14 @@ Joshua Maloney
 
 ## Recent Projects
 
+### (2025) Age of Empires II Definitive Edition for Playstation 5
+
+To be released Q2 2025.
+
+### (2024) Chronicles: Battle for Greece
+
+Downloadable content for Age of Empires II Definitive Edition.
+
 ### (2024) Feature Projects
 
 Featured in the book `c++ Game Animation Programming`.
