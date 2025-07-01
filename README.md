@@ -4,7 +4,7 @@
 
 ## Send me a message
 
-https://jnmaloney.github.io/contact/
+[Contact](https://jnmaloney.github.io/contact/)
 
 ## These are some of my recent projects
 
