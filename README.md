@@ -1,11 +1,12 @@
+# Home page of Joshua Maloney, software developer
+
 # [jnmaloney.github.io](https://jnmaloney.github.io)
-jnmaloney.github.io personal home page
 
+## Send me a message
 
+https://jnmaloney.github.io/contact/
 
-Joshua Maloney
-
-## Recent Projects
+## These are some of my recent projects
 
 ### (2025) Age of Mythology: Retold Premium Edition for PlayStation 5
 
@@ -13,7 +14,7 @@ Age of Mythology: Retold on PlayStation 5.
 
 In early access from 28 Feb 2025.
 
-### (2025) Age of Empires II Definitive Edition for PlayStation 5
+### (2025) Age of Empires II: Definitive Edition for PlayStation 5
 
 To be released Q2 2025.
 
