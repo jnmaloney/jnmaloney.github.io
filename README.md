@@ -160,3 +160,8 @@ Road Safety
 
 Road Safety Audit (RSA) involves checking proposed road designs for adequate stopping distances and line-of-sight. A simulation was developed for testing proposed road designs in real-time 3d. This made sure that the proposal would satisfy RSA requirements. 
 
+
+## Contact
+
+[github](https://github.com/jnmaloney) | [imdb](https://pro.imdb.com/name/nm17451643) | [Send a message here](https://jnmaloney.github.io/contact/)
+
