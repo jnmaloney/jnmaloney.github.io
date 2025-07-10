@@ -1,0 +1,161 @@
+:root {
+  --bg: #ffffff;
+  --text: #111;
+  --accent: #007acc;
+  --nav-bg: #e0e0e0;
+  --tab-bg: #f5f5f5;
+  --tab-hover: #dcdcdc;
+  --tab-active: #007acc;
+}
+
+[data-theme="dark"] {
+  --bg: #1e1e1e;
+  --text: #f0f0f0;
+  --accent: #50fa7b;
+  --nav-bg: #333;
+  --tab-bg: #2a2a2a;
+  --tab-hover: #444;
+  --tab-active: #50fa7b;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  margin: 0;
+  transition: background 0.3s, color 0.3s;
+}
+
+a {
+  color: var(--accent);
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+}
+
+header {
+  text-align: center;
+  position: relative;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  color: var(--text);
+}
+
+.theme-toggle {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: transparent;
+  border: 2px solid var(--text);
+  color: var(--text);
+  padding: 0.3rem 0.6rem;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.tab-nav {
+  margin-top: 1rem;
+  margin-bottom: 0;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.tablink {
+  background: var(--nav-bg);
+  border: none;
+  color: var(--text);
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px 5px 0 0;
+  font-weight: bold;
+}
+
+.tablink:hover,
+.tablink.active {
+  background: var(--tab-active);
+  color: var(--bg);
+}
+
+.tabcontent {
+  display: none;
+  background: var(--tab-bg);
+  padding: 1.5rem;
+  border-radius: 0 0 10px 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  margin-top: 0;
+}
+
+.tabcontent.active {
+  display: block;
+}
+
+.project-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.project-list li {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--tab-hover);
+  padding-bottom: 0.5rem;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  .tab-nav {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .tablink {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+
+/* Contact Form */
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contact-form label {
+  font-weight: bold;
+  margin-bottom: 0.2rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  background: var(--bg);
+  color: var(--text);
+  border: 1px solid var(--tab-hover);
+  padding: 0.75rem;
+  border-radius: 5px;
+  font-size: 1rem;
+  width: 100%;
+}
+
+.contact-form button {
+  background: var(--tab-active);
+  color: var(--bg);
+  border: none;
+  padding: 0.75rem;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.contact-form button:hover {
+  filter: brightness(1.1);
+}
